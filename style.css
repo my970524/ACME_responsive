@@ -145,13 +145,17 @@ nav .nav_togglebtn {
   font-weight: bold;
   border-radius: 5%;
 }
-.block #comment {
+.block #comment_shop {
   text-align: center;
   padding-top: 35px;
 }
 .block #comment_donate {
   text-align: center;
   padding-top: 68px;
+}
+.block #comment_buy {
+  text-align: center;
+  padding-top: 35px;
 }
 .three_boxes p {
   width: 20rem;
@@ -296,15 +300,16 @@ footer .sns a {
     height: 16rem;
     margin: 20px auto;
   }
-  .block #comment {
+  .block #comment_shop {
     text-align: center;
     padding-top: 14px;
   }
-  .block .box_3 > #comment {
-    padding-top: 0;
-  }
   .block #comment_donate {
     padding-top: 45px;
+  }
+  .block #comment_buy {
+    padding-top: 0;
+    text-align: center;
   }
   .three_boxes p {
     width: 100%;
