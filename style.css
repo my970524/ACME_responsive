@@ -283,9 +283,6 @@ footer .sns a {
   .three_boxes {
     flex-direction: column;
   }
-  .block {
-    margin: 0 auto;
-  }
   .three_boxes p {
     margin: calc(var(--padding) / 2) auto;
   }
@@ -314,5 +311,13 @@ footer .sns a {
   }
   .three_boxes p {
     width: 100%;
+  }
+
+  /*Third_Box*/
+  .third_content h2 {
+    font-size: 35px;
+  }
+  .third_content p {
+    width: 90%;
   }
 }
