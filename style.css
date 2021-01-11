@@ -299,16 +299,17 @@ footer .sns a {
     width: 16rem;
     height: 16rem;
     margin: 20px auto;
+    font-size: 40px;
   }
   .block #comment_shop {
     text-align: center;
-    padding-top: 14px;
+    padding-top: 30px;
   }
   .block #comment_donate {
-    padding-top: 45px;
+    padding-top: 60px;
   }
   .block #comment_buy {
-    padding-top: 0;
+    padding-top: 32px;
     text-align: center;
   }
   .three_boxes p {
