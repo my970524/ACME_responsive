@@ -291,4 +291,22 @@ footer .sns a {
   .third_content p {
     width: 90%;
   }
+  .block {
+    width: 16rem;
+    height: 16rem;
+    margin: 20px auto;
+  }
+  .block #comment {
+    text-align: center;
+    padding-top: 14px;
+  }
+  .block .box_3 > #comment {
+    padding-top: 0;
+  }
+  .block #comment_donate {
+    padding-top: 45px;
+  }
+  .three_boxes p {
+    width: 100%;
+  }
 }
